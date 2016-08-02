@@ -1,4 +1,4 @@
-# SlideViDemo
+# SlideViewDemo
 仿钉钉头像动画
 
 ## 这个Demo的效果
